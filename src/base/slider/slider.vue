@@ -121,6 +121,7 @@
 
   .slider
     min-height: 1px
+    position: relative
     .slider-group
       position: relative
       overflow: hidden
