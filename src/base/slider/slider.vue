@@ -45,7 +45,7 @@
         if (this.autoPlay) {
           this._play()
         }
-      }, 20)
+      }, 30)
 
       window.addEventListener('resize', () => {
         if (!this.slider) {
